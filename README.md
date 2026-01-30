@@ -4,12 +4,6 @@ Projet Pokedex en Next.js avec PokeAPI, Material-UI et TanStack Query.
 
 ---
 
-## ⚠️ Avant d’envoyer le projet
-
-**Supprimer le dossier `node_modules`** avant d’uploader ou de rendre le projet. Sinon un **malus de 2 pts** sera appliqué.
-
----
-
 ## Lancer le projet
 
 Le projet doit fonctionner avec les commandes suivantes (rien d’autre à faire à part ça) :
